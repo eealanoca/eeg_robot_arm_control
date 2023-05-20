@@ -20,8 +20,8 @@ Contributions and collaborations from the robotics, neuroscience, and signal pro
 
 ## Requirements
 
-- SolidWorks (version XYZ or higher)
-- MATLAB (version XYZ or higher)
+- SolidWorks (version 2020 or higher)
+- MATLAB (version 2020a or higher)
 - Simulink and Simscape Toolbox
 
 ## Getting Started
