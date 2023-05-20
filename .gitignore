@@ -1,0 +1,24 @@
+# Archivos de credenciales
+.env
+.pem
+.key
+
+# Archivos de configuración sensibles
+config.json
+settings.ini
+database.config
+
+# Archivos generados o compilados
+*.o
+*.class
+*.pyc
+/dist/
+/build/
+/node_modules/
+
+# Archivos de registro y archivos temporales
+*.log
+*.tmp
+
+# Archivos de respaldo
+*~
